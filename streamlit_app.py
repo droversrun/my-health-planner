@@ -1,8 +1,3 @@
-You are right at the finish line! Now you just need to replace that "starter" text with the actual health code.
-
-1. Copy the code below:
-(Tap and hold the box below to copy everything).
-import streamlit as st
 
 st.set_page_config(page_title="Health Predictor", layout="centered")
 
