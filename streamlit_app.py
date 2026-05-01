@@ -43,22 +43,3 @@ if net_cal < 0:
     st.success(f"Great plan! You are in a {abs(net_cal)} calorie deficit.")
 else:
     st.warning(f"Note: You are in a {net_cal} calorie surplus.")
-2. Paste it in GitHub:
-
-• In your GitHub app (where your screenshot is), tap on the text and delete all 6 lines that are currently there.
-
-• Paste the new code you just copied.
-
-3. Save it:
-
-• Tap the three dots (...) or the Save/Commit button in the top right corner.
-
-• Confirm by tapping "Commit changes".
-
-4. Check your app:
-
-• Go back to your Safari/Chrome browser tab where it previously said "My new app."
-
-• Refresh the page.
-
-It will take about 10 seconds to update, and then you will see your Health Planner with the input boxes and predictions! Let me know when it loads!
